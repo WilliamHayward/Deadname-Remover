@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Deadname-Remover
 // @version      1.1.2
-// @description  Replace dead names with preffered names.
+// @description  Replace dead names with preferred names.
 // @author       William Hayward
 // @license      MIT
 // @match        *://*/*
